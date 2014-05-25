@@ -3,3 +3,5 @@ wrote something
 
 dummy not added less
 dummy added more
+
+added new line by dummy
